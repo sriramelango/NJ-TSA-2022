@@ -14,7 +14,7 @@ def space(num_lines=1):
 
 
 # Page Setup
-st.set_page_config(layout="centered", page_icon="", page_title="Top 10 Activities/Places in NJ")
+st.set_page_config(layout="centered", page_icon="", page_title="T10 of New Jersey!")
 st.title("Best Places & Activites in NJ")
 st.markdown("""
  - New Jersey is filled with amazing places, but here are the top 10 activities and places within the Garden State! 
